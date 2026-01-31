@@ -1,10 +1,12 @@
 
 
 
-# Hi there, I'm Evan TIAN! 👋
+
+
+# Hi there, I'm Guiyin TIAN! 👋
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/124669898?v=4" alt="GuiyinTIAN" width="200" style="border-radius: 50%; border: 4px solid #000000;" />
+	<img src="https://guiyintian.github.io/images/android-chrome-512x512.png" alt="GuiyinTIAN" width="200" style="border-radius: 50%; border: 4px solid #fffefe;" />
 </div>
 
 ---
@@ -36,30 +38,28 @@ Passionate about AI, Robotics, XR, and Web Development. Always seeking innovatio
 <details>
 <summary><b>🔥 News</b></summary>
 
-• 2025.06 🎉 Joined HKU DASE CPS Lab as Summer Research Intern
-• 2025.03 🎉 Demo at IEEE VR 2025 3D UI-contest
-• 2024.06 🎉 Joined HKU DASE HIS Lab as Summer Intern, became a Visioneer
-• 2023.10 🤖 Joined HKU RoboMaster team, participated in RMUC/RMUL
+• 2025.06 🎉 Joined HKU DASE CPS Lab as Summer Research Intern  
+• 2025.03 🎉 Demo at IEEE VR 2025 3D UI-contest  
+• 2024.06 🎉 Joined HKU DASE HIS Lab as Summer Intern, became a Visioneer  
+• 2023.10 🤖 Joined HKU RoboMaster team, participated in RMUC/RMUL  
 • 2022.12 🎉 Smart Soccer Robot showcased at HKU 7th Engineering Innovation Show
 </details>
 
 <details>
 <summary><b>💻 Experience</b></summary>
 
-• 2025.06-09: Summer Research Intern at CPS Lab (Supervisor: Prof. S.Y. Hu)
-• 2024.09-2025.05: Research Assistant at HIS Lab (Supervisor: Prof. Y.H. Kuo)
+• 2025.06-09: Summer Research Intern at CPS Lab (Supervisor: Prof. S.Y. Hu)  
+• 2024.09-2025.05: Research Assistant at HIS Lab (Supervisor: Prof. Y.H. Kuo)  
 • 2024.06-09: VR/XR Developer Intern at HIS Lab (Supervisor: Prof. Y.H. Kuo)
 </details>
 
 <details open>
 <summary><b>📚 Selected Projects</b></summary>
 
-<ul>
-	<li><b>Billiards Analyzer</b> <a href="https://github.com/GuiyinTIAN/Billiards-Analyzer">[GitHub]</a>: Intelligent billiards analysis system based on YOLOv5 & LLM, Django+Bootstrap, provides tactical suggestions and image analysis.</li>
-	<li><b>Autonomous Mobile Robot</b> <a href="https://www.youtube.com/watch?v=b59v5Y2M1p0">[YouTube]</a>: Agricultural robot with Jetson Nano+Arduino, CV detection & voice interaction for precision agriculture.</li>
-	<li><b>Hand Gesture Recognition</b> <a href="https://github.com/GuiyinTIAN/ELEC4342_Group-Project">[GitHub]</a>: ResNet18-based gesture recognition, edge deployment on Raspberry Pi, real-time inference.</li>
-	<li><b>Smart Soccer Robot</b> <a href="https://www.youtube.com/watch?v=uwDEdkyxawk">[YouTube]</a>: Autonomous soccer robot, embedded system & intelligent control, showcased at innovation exhibition.</li>
-</ul>
+• <b>Billiards Analyzer</b> ([GitHub](https://github.com/GuiyinTIAN/Billiards-Analyzer)): Intelligent billiards analysis system based on YOLOv5 & LLM, Django+Bootstrap, provides tactical suggestions and image analysis.  
+• <b>Autonomous Mobile Robot</b> ([YouTube](https://www.youtube.com/watch?v=b59v5Y2M1p0)): Agricultural robot with Jetson Nano+Arduino, CV detection & voice interaction for precision agriculture.  
+• <b>Hand Gesture Recognition</b> ([GitHub](https://github.com/GuiyinTIAN/ELEC4342_Group-Project)): ResNet18-based gesture recognition, edge deployment on Raspberry Pi, real-time inference.  
+• <b>Smart Soccer Robot</b> ([YouTube](https://www.youtube.com/watch?v=uwDEdkyxawk)): Autonomous soccer robot, embedded system & intelligent control, showcased at innovation exhibition.
 </details>
 
 ---
