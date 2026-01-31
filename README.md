@@ -1,12 +1,12 @@
-# Hi there, I'm Guiyin TIAN! 👋
+# Hi there 👋
 
-<div align="center">
+<!-- <div align="center">
 	<img src="https://guiyintian.github.io/images/android-chrome-512x512.png" alt="GuiyinTIAN" width="200" style="border-radius: 50%; border: 4px solid #fffefe;" />
-</div>
+</div> -->
 
 ---
 
-## 🚀 Who Am I?
+### 🚀 Who Am I?
 > Hi! I'm Evan (Guiyin) TIAN, a passionate developer building amazing things with code! 🚀😄
 - 🤖 Geek for AI, Robotics, VR/XR & all things tech
 - 🏆 Active in RoboMaster, IEEE VR 2025, and innovation events
