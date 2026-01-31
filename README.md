@@ -11,7 +11,7 @@
 - 🤖 Geek for AI, Robotics, VR/XR & all things tech
 - 🏆 Active in RoboMaster, IEEE VR 2025, and innovation events
 - 🏀 Basketball, 🏊 swimming, 🏓 ping pong, and chilling with friends
-- 💬 Curious about my work or just want to say hi? Feel free!
+- 💬 Curious about my work or just want to say Hi? Feel free!
 - 📫 Contact: <a href="mailto:guiyin_tian@connect.hku.hk">guiyin_tian@connect.hku.hk</a> / <a href="https://guiyintian.github.io/">@GuiyinTIAN</a>
 
 ---
