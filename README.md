@@ -52,7 +52,8 @@ Undergraduate | Electrical and Computer Engineering | The University of Hong Kon
 <details>
 <summary><b>📚 Selected Projects</b></summary>
 
-<ul>
+<ul>	
+    <li><b>UniHaven</b> (<a href="https://github.com/GuiyinTIAN/UniHaven">GitHub</a>): Web service to help non-local students at HKU and other universities find suitable off-campus rental accommodation.</li>
 	<li><b>Billiards Analyzer</b> (<a href="https://github.com/GuiyinTIAN/Billiards-Analyzer">GitHub</a>): Intelligent billiards analysis system based on YOLOv5 & LLM, Django+Bootstrap, provides tactical suggestions and image analysis.</li>
 	<li><b>Autonomous Mobile Robot</b> (<a href="https://www.youtube.com/watch?v=b59v5Y2M1p0">YouTube</a>): Agricultural robot with Jetson Nano+Arduino, CV detection & voice interaction for precision agriculture.</li>
 	<li><b>Hand Gesture Recognition</b> (<a href="https://github.com/GuiyinTIAN/ELEC4342_Group-Project">GitHub</a>): ResNet18-based gesture recognition, edge deployment on Raspberry Pi, real-time inference.</li>
