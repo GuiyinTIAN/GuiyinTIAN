@@ -1,8 +1,3 @@
-
-
-
-
-
 # Hi there, I'm Guiyin TIAN! 👋
 
 <div align="center">
@@ -12,7 +7,7 @@
 ---
 
 ## 🚀 Who Am I?
-> Hi! I'm Evan (Guiyin) TIAN, a passionate developer building amazing things with code! 🚀😄 🚀😄
+> Hi! I'm Evan (Guiyin) TIAN, a passionate developer building amazing things with code! 🚀😄
 - 🤖 Geek for AI, Robotics, VR/XR & all things tech
 - 🏆 Active in RoboMaster, IEEE VR 2025, and innovation events
 - 🏀 Basketball, 🏊 swimming, 🏓 ping pong, and chilling with friends
@@ -24,9 +19,8 @@
 <details open>
 <summary><b>👨‍🎓 About Me</b></summary>
 
-Undergraduate | Electrical and Computer Engineering | The University of Hong Kong
-
-Passionate about AI, Robotics, XR, and Web Development. Always seeking innovation and interdisciplinary fusion.
+Undergraduate | Electrical and Computer Engineering | The University of Hong Kong 
+> Passionate about AI, Robotics, VR&XR, and Web Development. Always seeking innovation and interdisciplinary fusion.
 </details>
 
 <details>
