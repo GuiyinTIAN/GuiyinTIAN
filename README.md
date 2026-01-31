@@ -4,8 +4,6 @@
 	<img src="https://guiyintian.github.io/images/android-chrome-512x512.png" alt="GuiyinTIAN" width="200" style="border-radius: 50%; border: 4px solid #fffefe;" />
 </div> -->
 
----
-
 ### 🚀 Who Am I?
 > Hi! I'm Evan (Guiyin) TIAN, a passionate developer building amazing things with code! 🚀😄
 - 🤖 Geek for AI, Robotics, VR/XR & all things tech
