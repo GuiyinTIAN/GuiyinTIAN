@@ -54,10 +54,12 @@ Undergraduate | Electrical and Computer Engineering | The University of Hong Kon
 <details>
 <summary><b>📚 Selected Projects</b></summary>
 
-• <b>Billiards Analyzer</b> ([GitHub](https://github.com/GuiyinTIAN/Billiards-Analyzer)): Intelligent billiards analysis system based on YOLOv5 & LLM, Django+Bootstrap, provides tactical suggestions and image analysis.  
-• <b>Autonomous Mobile Robot</b> ([YouTube](https://www.youtube.com/watch?v=b59v5Y2M1p0)): Agricultural robot with Jetson Nano+Arduino, CV detection & voice interaction for precision agriculture.  
-• <b>Hand Gesture Recognition</b> ([GitHub](https://github.com/GuiyinTIAN/ELEC4342_Group-Project)): ResNet18-based gesture recognition, edge deployment on Raspberry Pi, real-time inference.  
-• <b>Smart Soccer Robot</b> ([YouTube](https://www.youtube.com/watch?v=uwDEdkyxawk)): Autonomous soccer robot, embedded system & intelligent control, showcased at innovation exhibition.
+<ul>
+	<li><b>Billiards Analyzer</b> (<a href="https://github.com/GuiyinTIAN/Billiards-Analyzer">GitHub</a>): Intelligent billiards analysis system based on YOLOv5 & LLM, Django+Bootstrap, provides tactical suggestions and image analysis.</li>
+	<li><b>Autonomous Mobile Robot</b> (<a href="https://www.youtube.com/watch?v=b59v5Y2M1p0">YouTube</a>): Agricultural robot with Jetson Nano+Arduino, CV detection & voice interaction for precision agriculture.</li>
+	<li><b>Hand Gesture Recognition</b> (<a href="https://github.com/GuiyinTIAN/ELEC4342_Group-Project">GitHub</a>): ResNet18-based gesture recognition, edge deployment on Raspberry Pi, real-time inference.</li>
+	<li><b>Smart Soccer Robot</b> (<a href="https://www.youtube.com/watch?v=uwDEdkyxawk">YouTube</a>): Autonomous soccer robot, embedded system & intelligent control, showcased at innovation exhibition.</li>
+</ul>
 </details>
 
 ---
