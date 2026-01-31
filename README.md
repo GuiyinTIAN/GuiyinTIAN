@@ -32,22 +32,26 @@ Undergraduate | Electrical and Computer Engineering | The University of Hong Kon
 <details>
 <summary><b>🔥 News</b></summary>
 
-• 2025.06 🎉 Joined HKU DASE CPS Lab as Summer Research Intern  
-• 2025.03 🎉 Demo at IEEE VR 2025 3D UI-contest  
-• 2024.06 🎉 Joined HKU DASE HIS Lab as Summer Intern, became a Visioneer  
-• 2023.10 🤖 Joined HKU RoboMaster team, participated in RMUC/RMUL  
-• 2022.12 🎉 Smart Soccer Robot showcased at HKU 7th Engineering Innovation Show
+<ul>
+	<li>2025.06 🎉 Joined HKU DASE CPS Lab as Summer Research Intern</li>
+	<li>2025.03 🎉 Demo at IEEE VR 2025 3D UI-contest</li>
+	<li>2024.06 🎉 Joined HKU DASE HIS Lab as Summer Intern, became a Visioneer</li>
+	<li>2023.10 🤖 Joined HKU RoboMaster team, participated in RMUC/RMUL</li>
+	<li>2022.12 🎉 Smart Soccer Robot showcased at HKU 7th Engineering Innovation Show</li>
+</ul>
 </details>
 
 <details>
 <summary><b>💻 Experience</b></summary>
 
-• 2025.06-09: Summer Research Intern at CPS Lab (Supervisor: Prof. S.Y. Hu)  
-• 2024.09-2025.05: Research Assistant at HIS Lab (Supervisor: Prof. Y.H. Kuo)  
-• 2024.06-09: VR/XR Developer Intern at HIS Lab (Supervisor: Prof. Y.H. Kuo)
+<ul>
+	<li>2025.06-09: Summer Research Intern at CPS Lab (Supervisor: Prof. S.Y. Hu)</li>
+	<li>2024.09-2025.05: Research Assistant at HIS Lab (Supervisor: Prof. Y.H. Kuo)</li>
+	<li>2024.06-09: VR/XR Developer Intern at HIS Lab (Supervisor: Prof. Y.H. Kuo)</li>
+</ul>
 </details>
 
-<details open>
+<details>
 <summary><b>📚 Selected Projects</b></summary>
 
 • <b>Billiards Analyzer</b> ([GitHub](https://github.com/GuiyinTIAN/Billiards-Analyzer)): Intelligent billiards analysis system based on YOLOv5 & LLM, Django+Bootstrap, provides tactical suggestions and image analysis.  
