@@ -23,7 +23,7 @@ Undergraduate | Electrical and Computer Engineering | The University of Hong Kon
 
 <details>
 <summary><b>📖 Educations</b></summary>
-
+• 2026.09 - 2028.09: MPhil in Department of Data and Systems Engineering, HKU
 • 2022.09 - 2026.06: B.Eng. in Electrical and Electronic Engineering, HKU
 </details>
 
